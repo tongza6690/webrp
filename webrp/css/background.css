@@ -1,7 +1,6 @@
 body, html {
     height: 100%;
-  }
-  
+}
   .bg { 
     /* The image used */
     background-image: url("../image/บุคลากร.jpg");
@@ -14,19 +13,11 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
   }
-
-
-  .bgindex { 
-    /* The image used */
-    background-image: url("../image/bg-1.jpg");
-  
-    /* Full height */
-    /*height: 100%; */
-  
-    /* Center and scale the image nicely */
-    background-position: center;
+  .bgindex {
+    background: url("../image/bg-1.jpg");
+    padding: 650px;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 100%;
   }
 
 
