@@ -20,6 +20,13 @@ body, html {
     background-size: 1920px 3240px;
   }
 
+  .bghistory {
+    background: url("../image/ประวัติ.jpg");
+    padding: 1060px 800px;
+    background-repeat: no-repeat;
+    background-size: 1920px 2160px;
+  }
+
 
 
 
