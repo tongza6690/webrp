@@ -29,6 +29,12 @@ html {
     background-repeat: no-repeat;
     background-size: 1920px 2160px;
   }
+
+  .bgcourse {
+    background: url("../image/หลักสูตร.jpg");
+    background-repeat: no-repeat;
+    background-size: 1920px 1080px;
+
   
   .zoom:hover {
     -ms-transform: scale(1.1); /* IE 9 */
