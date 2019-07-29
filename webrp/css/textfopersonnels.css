@@ -5,8 +5,14 @@
  */
  
 
-body {
+/*body {
   padding-top: 56px;
+}*/
+
+.textintoper{
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
 }
 
 

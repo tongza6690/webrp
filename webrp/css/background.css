@@ -36,14 +36,13 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+  }  
 
-  
   .zoom:hover {
     -ms-transform: scale(1.1); /* IE 9 */
     -webkit-transform: scale(1.1); /* Safari 3-8 */
     transform: scale(1.1); 
   }
-
 
 
 
